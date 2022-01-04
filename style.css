@@ -4,7 +4,7 @@ body {
 h1 {
   font-size: 300%;
 }
-section {
+.flexible-container {
   display: flex;
   margin-bottom: 100px;
 }
